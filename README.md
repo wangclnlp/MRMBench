@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 ### Data
 
-See [./data/README](./data/README.md) for more details.
+See [our huggingface](https://huggingface.co/datasets/ifnoc/MRMBench) for more details.
 
 ### Evaluation
 
