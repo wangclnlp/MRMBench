@@ -37,6 +37,7 @@ We present a subset of evaluation results for several reward models on MRMBench.
 
 | Model Name     | Params | Har. | Hel. | Cor. | Coh. | Com. | Ver. | Avg. |
 | --------------------------------------------- | :----: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| **–– 13B models––**   |        |      |      |      |      |      |      |      |
 | allenai/tulu-2-dpo-13b                        |   13B  | 80.2 | 66.1 | 70.6 | 72.0 | 90.7 | 82.1 | 76.9 |
 | openbmb/UltraRM-13B                           |   13B  | 54.5 | 74.5 | 72.6 | 90.9 | 82.2 | 71.7 | 74.4 |
 | meta-llama/LLaMA-2-13B-Chat        |   13B  | 78.1 | 61.3 | 66.4 | 68.3 | 86.4 | 80.5 | 73.5 |
@@ -63,6 +64,7 @@ We present a subset of evaluation results for several reward models on MRMBench.
 
 | Model Name                                    | Params | Har. | Hel. | Cor. | Coh. | Com. | Ver. | Avg. |
 | --------------------------------------------- | :----: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| **–– 13B models––**   |        |      |      |      |      |      |      |      |
 | allenai/tulu-2-DPO-13B                        |   13B  | 70.1 | 68.6 | 43.8 | 71.2 | 61.3 | 66.6 | 63.6 |
 | openbmb/UltraRM-13B                           |   13B  | 48.0 | 69.5 | 47.1 | 72.6 | 59.7 | 62.1 | 59.8 |
 | meta-llama/Llama-2-13B-chat         |   13B  | 73.1 | 62.5 | 37.4 | 65.2 | 57.1 | 63.4 | 59.8 |
