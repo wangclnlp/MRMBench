@@ -1,7 +1,7 @@
 # Probing Preference Representations: A Multi-Dimensional Evaluation and Analysis Method for Reward Models
 
 ## Introduction
-We introduce **MRMBench**, a comprehensive benchmark for evaluating reward models across six key preference dimensions: harmlessness, helpfulness, correctness, coherence, complexity, and verbosity. *Unlike traditional pairwise-ranking evaluations that reduce preference learning to a single binary choice, MRMBench probes whether reward models genuinely encode rich, multi-dimensional human preferences.* We further propose **inference-time probing**, a simple yet effective analysis method that identifies which preference dimensions a reward model relies on during prediction, enhancing interpretability and revealing potential failure modes. Our paper is available at this [link]().
+We introduce **MRMBench**, a comprehensive benchmark for evaluating reward models across six key preference dimensions: harmlessness, helpfulness, correctness, coherence, complexity, and verbosity. *Unlike traditional pairwise-ranking evaluations that reduce preference learning to a single binary choice, MRMBench probes whether reward models genuinely encode rich, multi-dimensional human preferences.* We further propose **inference-time probing**, a simple yet effective analysis method that identifies which preference dimensions a reward model relies on during prediction, enhancing interpretability and revealing potential failure modes. Our paper is available at this [link](https://arxiv.org/abs/2511.12464).
 
 ![](figs/training_and_probing_rm.png)
 
@@ -31,7 +31,7 @@ bash ./scripts/evaluate_MRMBench-Hard.sh
 ```
 
 ### Evaluation Results
-We present a subset of evaluation results for several reward models on MRMBench. Additional results can be found in our full [paper]().
+We present a subset of evaluation results for several reward models on MRMBench. Additional results can be found in our full [paper](https://arxiv.org/abs/2511.12464).
 
 ### **MRMBench-Easy**
 
