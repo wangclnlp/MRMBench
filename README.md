@@ -88,7 +88,15 @@ We present a subset of evaluation results for several reward models on MRMBench.
 
 ### Citation
 ```
-TODO
+@misc{wang2025probingpreferencerepresentationsmultidimensional,
+      title={Probing Preference Representations: A Multi-Dimensional Evaluation and Analysis Method for Reward Models}, 
+      author={Chenglong Wang and Yifu Huo and Yang Gan and Yongyu Mu and Qiaozhi He and Murun Yang and Bei Li and Chunliang Zhang and Tongran Liu and Anxiang Ma and Zhengtao Yu and Jingbo Zhu and Tong Xiao},
+      year={2025},
+      eprint={2511.12464},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.12464}, 
+}
 ```
 
 ### Acknowledgement
