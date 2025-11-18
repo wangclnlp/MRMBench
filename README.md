@@ -90,7 +90,7 @@ We present a subset of evaluation results for several reward models on MRMBench.
 
 ### Citation
 ```
-@misc{wang2025probingpreferencerepresentationsmultidimensional,
+@article{wang2025probing,
       title={Probing Preference Representations: A Multi-Dimensional Evaluation and Analysis Method for Reward Models}, 
       author={Chenglong Wang and Yifu Huo and Yang Gan and Yongyu Mu and Qiaozhi He and Murun Yang and Bei Li and Chunliang Zhang and Tongran Liu and Anxiang Ma and Zhengtao Yu and Jingbo Zhu and Tong Xiao},
       year={2025},
